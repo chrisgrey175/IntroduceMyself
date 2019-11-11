@@ -1,0 +1,60 @@
+.introduce_myself{
+    display:flex;
+    width:1000px;
+    height:400px;
+    margin:auto;
+}
+.introduce_myself .text_block{
+    width:700px;
+    height:400px;
+}
+.introduce_myself .text_block h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(71, 68, 68);
+}
+.introduce_myself .text_block h4{
+    font-family:sans-serif;
+    color:grey;
+}
+
+.introduce_myself .image_icon_block{
+    width:300px;
+    height:400px;
+}
+.introduce_myself .image_icon_block .image_block{
+    width:300px;
+    height:300px;
+}
+.introduce_myself .image_icon_block .image_block img{
+    width:100%; 
+    height:100%;
+    border-radius:50%;
+}
+.introduce_myself .image_icon_block .icon_block{
+    height:100px;
+    width:300px;
+    display:flex;
+}
+.introduce_myself .image_icon_block .icon_block .icon1{
+    height: 100%;
+    width: 33%;
+    font-size: 40px;
+    padding-left: 57px;
+    padding-top: 10px;
+    
+}
+.introduce_myself .image_icon_block .icon_block .icon2{
+    height: 100%;
+    width: 33%;
+    font-size: 33px;
+    padding-left: 22px;
+    padding-top: 13px;
+}
+.introduce_myself .image_icon_block .icon_block .icon3{
+    height: 100%;
+    width: 33%;
+    font-size: 41px;
+    padding-right: 51px;
+    padding-top: 10px;
+
+}
